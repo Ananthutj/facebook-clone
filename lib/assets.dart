@@ -1,0 +1,11 @@
+String screenshot="assets/avatar/Screenshot (90).png";
+String flutter="assets/avatar/flutter.jpg";
+String user1="assets/avatar/user1.jpeg";
+String user2="assets/avatar/user2.jpeg";
+String user3="assets/avatar/user3.jpeg";
+String user4="assets/avatar/user4.jpg";
+String user5="assets/avatar/user5.png";
+String user6="assets/avatar/user6.webp";
+String mk="assets/avatar/mk.jpeg";
+String cric="assets/avatar/cric.jpg";
+String diwali="assets/avatar/diwali.jpg";
